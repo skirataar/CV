@@ -1,0 +1,28 @@
+body{
+     background-color: #EAF6F6;
+     }
+
+hr{
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+    }
+
+img{
+    height: 200px;
+    }
+
+h1{
+    color: #66BFBF;
+    font-family: "Lucida Handwriting";
+    font-size: 48px
+
+}
+
+h3{
+    color: #F76B8A;
+    font-family: "Courier New";
+    font-size: 20px
+}
